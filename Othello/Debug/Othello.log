@@ -1,0 +1,5 @@
+﻿  yzu1082003.cpp
+d:\hannah\c++程式設計\othello\othello\yzu1082003.cpp(142): warning C4715: 'play': 不是所有控制路徑都傳回值
+  LINK : 最後的累加連結找不到或未建置 D:\Hannah\c++程式設計\Othello\Debug\Othello.dll，正在執行完整連結
+     正在建立程式庫 D:\Hannah\c++程式設計\Othello\Debug\Othello.lib 和物件 D:\Hannah\c++程式設計\Othello\Debug\Othello.exp
+  Othello.vcxproj -> D:\Hannah\c++程式設計\Othello\Debug\Othello.dll
